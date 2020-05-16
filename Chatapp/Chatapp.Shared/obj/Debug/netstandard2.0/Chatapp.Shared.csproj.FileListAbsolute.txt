@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\bin\Debug\netstandard2.0\Chatapp.Shared.deps.json
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\bin\Debug\netstandard2.0\Chatapp.Shared.dll
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\bin\Debug\netstandard2.0\Chatapp.Shared.pdb
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\obj\Debug\netstandard2.0\Chatapp.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\obj\Debug\netstandard2.0\Chatapp.Shared.AssemblyInfo.cs
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\obj\Debug\netstandard2.0\Chatapp.Shared.dll
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\obj\Debug\netstandard2.0\Chatapp.Shared.pdb
+C:\Users\User\Desktop\DiplomnaRabotaMaster\Chatapp\Chatapp.Shared\obj\Debug\netstandard2.0\Chatapp.Shared.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+{
+  "connectionStrings": {
+    "defaultConnection": "Data Source=DESKTOP-H1K9NHD\\SQLEXPRESS;Initial Catalog=Chatapp;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}
